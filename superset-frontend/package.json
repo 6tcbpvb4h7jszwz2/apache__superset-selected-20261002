@@ -298,7 +298,7 @@
     "speed-measure-webpack-plugin": "^1.5.0",
     "storybook-addon-jsx": "^7.3.14",
     "storybook-addon-paddings": "^4.2.1",
-    "style-loader": "^3.2.1",
+    "style-loader": "^4.0.0",
     "thread-loader": "^3.0.4",
     "transform-loader": "^0.2.4",
     "ts-jest": "^26.4.2",
