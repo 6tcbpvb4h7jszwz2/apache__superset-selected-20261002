@@ -270,7 +270,7 @@
     "@storybook/addon-docs": "10.4.6",
     "@storybook/addon-links": "10.4.6",
     "@storybook/react-webpack5": "10.4.6",
-    "@storybook/test-runner": "0.24.4",
+    "@storybook/test-runner": "0.24.5",
     "@svgr/webpack": "^8.1.0",
     "@swc/core": "^1.15.43",
     "@swc/plugin-emotion": "^14.15.0",
